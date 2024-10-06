@@ -3,7 +3,7 @@
 - 👀 I am interested in Software Engineering , machine learning , and Robotics.
 - 🌱 I’m currently exploring GANs, Azure IOT, and research in the parrallel Robotic platforms field.
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <!-- [![Gmail](https://img.shields.io/badge/abdelrahman.elsayed@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:abdelrahman.elsayed@ejust.edu.eg)](mailto:abdelrahman.elsayed@ejust.edu.eg)
 [![Linkedin Badge](https://img.shields.io/badge/-abdelrahmanelsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-el-sayed-289464275/)](https://www.linkedin.com/in/abdelrahman-el-sayed-289464275/)
 --- -->
