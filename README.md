@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Abdelrahman-ElSayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-arch&theme=dark&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdelrahman-ElSayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-arch&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
