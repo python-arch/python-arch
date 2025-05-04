@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;![Anurag's GitHub stats](https://github-readme-stats-zeta-five-37.vercel.app/api?username=python-arch&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;![Anurag's GitHub stats](https://github-readme-stats-zeta-five-37.vercel.app/api?username=python-arch&count_private=true&theme=dark)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python-arch&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
