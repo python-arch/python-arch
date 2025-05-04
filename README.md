@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Abdelrahman-ElSayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-arch&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-arch&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
