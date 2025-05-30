@@ -1,7 +1,8 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [@Abdelrahman-El-Sayed (aka-python)](https://www.linkedin.com/in/python-arch/)
 - 👀 I am interested in Software Engineering , and Applied Science.
-- 🌱 I’m currently working PEFT for Medical Image segementation, Vision Language Models for culture-awareness, building cool Geo-intelligent LLM features.
+- 🌱 I’m currently working PEFT for Medical Image segementation, Vision Language Models for culture-awareness, and building cool Geo-intelligent LLM features.
+- Checkout my latest research project: https://github.com/BioMedIA-MBZUAI/SALT
 <!-- [![Gmail](https://img.shields.io/badge/abdelrahman.elsayed@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:abdelrahman.elsayed@ejust.edu.eg)](mailto:abdelrahman.elsayed@ejust.edu.eg)
 [![Linkedin Badge](https://img.shields.io/badge/-abdelrahmanelsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-el-sayed-289464275/)](https://www.linkedin.com/in/abdelrahman-el-sayed-289464275/)
 --- -->
